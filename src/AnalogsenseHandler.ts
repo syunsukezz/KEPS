@@ -1,4 +1,4 @@
-import "./analogsense.js";// 大文字小文字は区別される
+import "./AnalogSense.js";
 
 
 function RequestDeviceIfNeeded(button: HTMLButtonElement) {
